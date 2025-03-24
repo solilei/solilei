@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jun</h1>
 <h3 align="center">I'm a passionate machine learning engineer focused on solving real-world problems through data-driven approaches. My journey in ML has been shaped by structured learning and hands-on practice through Kaggle competitions and personal projects.</h3>
 
-- 🌱 I’m currently learning
-**- Advanced time series forecasting techniques**
-**- Deep learning for computer vision**
+- 🌱 I’m currently learning<br>
+**- Advanced time series forecasting techniques**<br>
+**- Deep learning for computer vision**<br>
 **- MLOps best practices and deployment workflows**
 
-- 📚 My Learning Journey
-**- Machine Learning Specialization (Stanford/DeepLearning.AI) - Coursera**
-**- 100 Days of Code: Python Pro Bootcamp - Udemy**
+- 📚 My Learning Journey<br>
+**- Machine Learning Specialization (Stanford/DeepLearning.AI) - Coursera**<br>
+**- 100 Days of Code: Python Pro Bootcamp - Udemy**<br>
 **- MLCourse.ai by OpenDataScience**
 
 - 📫 How to reach me - 
