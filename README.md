@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm Jun</h1>
 <h3 align="center">I'm a passionate machine learning engineer focused on solving real-world problems through data-driven approaches. My journey in ML has been shaped by structured learning and hands-on practice through Kaggle competitions and personal projects.</h3>
 
-- 🌱 I’m currently learning **- Advanced time series forecasting techniques - Deep learning for computer vision - MLOps best practices and deployment workflows**
+- 🌱 I’m currently learning
+**- Advanced time series forecasting techniques**
+**- Deep learning for computer vision**
+**- MLOps best practices and deployment workflows**
 
-- 📫 How to reach me **jun.loh.mleng@jun-mail.simplelogin.com**
+- 📚 My Learning Journey
+**- Machine Learning Specialization (Stanford/DeepLearning.AI) - Coursera**
+**- 100 Days of Code: Python Pro Bootcamp - Udemy**
+**- MLCourse.ai by OpenDataScience**
 
-- ⚡ Fun fact **I teach people how to fly.**
+- 📫 How to reach me
+**jun.loh.mleng@jun-mail.simplelogin.com**
+
+- ⚡ Fun fact
+**I teach people how to fly.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
