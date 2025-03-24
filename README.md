@@ -11,10 +11,10 @@
 **- 100 Days of Code: Python Pro Bootcamp - Udemy**
 **- MLCourse.ai by OpenDataScience**
 
-- 📫 How to reach me
+- 📫 How to reach me - 
 **jun.loh.mleng@jun-mail.simplelogin.com**
 
-- ⚡ Fun fact
+- ⚡ Fun fact - 
 **I teach people how to fly.**
 
 <h3 align="left">Connect with me:</h3>
