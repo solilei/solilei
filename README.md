@@ -5,12 +5,15 @@
 - 🌱 I’m currently learning<br>
 **- Advanced time series forecasting techniques**<br>
 **- Deep learning for computer vision**<br>
+**- GenAI and Agents**<br>
 **- MLOps best practices and deployment workflows**
 
 - 📚 My Learning Journey<br>
 **- Machine Learning Specialization (Stanford/DeepLearning.AI) - Coursera**<br>
 **- 100 Days of Code: Python Pro Bootcamp - Udemy**<br>
-**- MLCourse.ai by OpenDataScience**
+**- MLCourse.ai by OpenDataScience**<br>
+**- Gen AI Intensive Course by Google and Kaggle**
+  
 
 - 📫 How to reach me - 
 **jun.loh.mleng@jun-mail.simplelogin.com**
