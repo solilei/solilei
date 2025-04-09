@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jun</h1>
-<h3 align="center">Machine Learning Engineer | Python Developer | Data Science Enthusiast</h3>
+<h3 align="center">Machine Learning Engineer | Python Developer | GenAI Enthusiast</h3>
 <h3 align="center">I'm a passionate machine learning engineer focused on solving real-world problems through data-driven approaches. My journey in ML has been shaped by structured learning and hands-on practice through Kaggle competitions and personal projects.</h3>
 
 - 🌱 I’m currently learning<br>
