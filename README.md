@@ -9,10 +9,10 @@
 **- MLOps best practices and deployment workflows**
 
 - 📚 My Learning Journey<br>
-**- Machine Learning Specialization (Stanford/DeepLearning.AI) - Coursera**<br>
-**- 100 Days of Code: Python Pro Bootcamp - Udemy**<br>
-**- MLCourse.ai - OpenDataScience**<br>
-**- Gen AI Intensive Course - Google and Kaggle**
+**- Machine Learning Specialization (Coursera)**<br>
+**- 100 Days of Code: Python Pro Bootcamp (Udemy)**<br>
+**- MLCourse.ai open ML course (OpenDataScience)**<br>
+**- Gen AI Intensive Course (Google and Kaggle)**<br>
   
 
 - 📫 How to reach me - 
