@@ -3,10 +3,7 @@
 <h3 align="center">I'm a passionate machine learning engineer focused on solving real-world problems through data-driven approaches. My journey in ML has been shaped by structured learning and hands-on practice through Kaggle competitions and personal projects.</h3>
 
 - 🌱 I’m currently learning<br>
-**- Advanced time series forecasting techniques**<br>
-**- Deep learning for computer vision**<br>
 **- GenAI and Agents**<br>
-**- MLOps best practices and deployment workflows**
 
 - 📚 My Learning Journey<br>
 **- Machine Learning Specialization (Coursera)**<br>
@@ -19,7 +16,7 @@
 **jun.loh.mleng@jun-mail.simplelogin.com**
 
 - ⚡ Fun fact - 
-**I teach people how to fly.**
+**I train people to become pilots.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
