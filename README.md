@@ -15,8 +15,6 @@
 - 📫 How to reach me - 
 **jun.loh.mleng@jun-mail.simplelogin.com**
 
-- ⚡ Fun fact - 
-**I train people to become pilots.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
